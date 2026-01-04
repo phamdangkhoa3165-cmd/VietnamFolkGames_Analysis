@@ -51,10 +51,16 @@ main_game.py: File khởi chạy chính.
 
 👨‍💻 Tác giả (Author)
 
-Nhóm IT Five
+Nhóm 17
+1. Trần Hải Đạt	24110197
+2. Trần Nguyễn Minh Hiếu	24110212
+3. Phạm Đăng Khoa	24110256
+4. Nguyễn Trung Kiên	24110263
+5. Nguyễn Quốc Việt	24110380
 
 Trường: Đại học Sư phạm Kỹ thuật TP.HCM (UTE)
 
 Khoa: Công nghệ Thông tin
 
 Cảm ơn thầy cô và các bạn đã quan tâm đến dự án!
+
